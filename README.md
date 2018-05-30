@@ -5,6 +5,6 @@ Visit <a href="https://gauravkeswani.com">Gaurav Keswani</a> to learn more front
 Live preview: <a href="https://github.com/Gaurav3170/Calculator-JSMaster"">Calculator JS</a></p><br>
 
 <p align="center">
-<img src="calculator_800.jpg" width="334" height="400" alt="Calculator JS">
+<img src="calculator_800.jpg" width="590" height="400" alt="Calculator JS">
 </p>
 
